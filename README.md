@@ -1,11 +1,10 @@
 # OpenImages
 
-OpenImages is a large set of images for computer vision, artificial intelligence, personal projects and commercial use. The images are completely free to use and do not require permission to use, modify or distribute.
-
+OpenImages is a large set of image assets for computer vision, artificial intelligence, personal projects and commercial use. The images are completely free to use and do not require permission to use, modify or distribute.
 
 ## Usage
 
-Download the repository as a zip or clone it with git. The images are in the `images` folder and categorized by type of images for example `nature > ground_cover`.
+Download the repository as a zip or clone it with git. The images are in the `images` folder and categorized by type of images for example `nature > leaves > pine`.
 
 ## License
 
