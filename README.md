@@ -22,8 +22,9 @@ If you would like to contribute to this repository, please open an issue or a pu
 - Images should not have any motion or blur on them unless it is background blur and the subject is in focus.
 - Images should be of high quality preferably more than 1000x1000 pixels.
 - Images should be in a readable format like jpg (or JPEG) and png. Images that are not in these formats should be converted to one of these formats.
-- Colour space should be RGB, sRGB, or Display P3. Using odd colour spaces can make it confusing for users to use the images.
+- Colour space should be RGB, sRGB, or Display P3. Using odd colour spaces can make it confusing for users to use the images on some software.
 - No watermarks or text on the images unless it is part of the image like a sign.
 - No artifacts or glitches in the images.
 - See the good examples folder for examples of good images and follow the same guidelines.
 - Images should not also be edited or have filters applied to them. The images should be as natural as possible. Rotating a photo is fine but no other edits, in short if the image looks bad or needs editing, it should not be included in the repository.
+- Images cannot be AI generated or computer generated. They should be real photos taken by a camera or a phone.
