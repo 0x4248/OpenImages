@@ -28,3 +28,5 @@ If you would like to contribute to this repository, please open an issue or a pu
 - See the good examples folder for examples of good images and follow the same guidelines.
 - Images should not also be edited or have filters applied to them. The images should be as natural as possible. Rotating a photo is fine but no other edits, in short if the image looks bad or needs editing, it should not be included in the repository.
 - Images cannot be AI generated or computer generated. They should be real photos taken by a camera or a phone.
+
+If these requirements are not met, the pull request may be rejected.
