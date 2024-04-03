@@ -10,6 +10,14 @@ Download the repository as a zip or clone it with git. The images are in the `im
 
 All content in this repository are free to use and do not require permission to use, modify or distribute. Attribution is not required but appreciated. Images can also be commercially used without permission or charge.
 
+## Image source
+
+Images are from the following countries:
+- United Kingdom (London North, London West and Central London)
+- Spain (Barcelona)
+
+If you would like to contribute images from your country, please state in your pull request the country and city the images are from.
+
 ## Contributing
 
 If you would like to contribute to this repository, please open an issue or a pull request with the following requirements:
